@@ -30,7 +30,9 @@ Welcome to my GitHub profile! I'm an **International Physics, Mathematics, and C
 - Front-end tools like HTML, CSS, and Flask  
 
 ## 🌐 Let's Connect!  
-- 🔗 [YouTube: Ajaya Physics](https://www.youtube.com/@AjayaPhysics)  
+- 🔗 [YouTube: Ajaya Physics](https://www.youtube.com/@AjayaPhysics)
+- Facebook: https://www.facebook.com/AjayaPhysics
+- Instagram: https://www.instagram.com/ajayaphysics/
 - 💼 [LinkedIn] https://www.linkedin.com/in/ajayaphysics/ 
 - 📧 Email: ajaya.physics@gmail.com)  
 - ✍️ ORCID iD: (https://orcid.org/0009-0003-5505-4049)
