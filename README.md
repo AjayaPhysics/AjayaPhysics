@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm an **International Physics, Mathematics, and C
 - Front-end tools like HTML, CSS, and Flask  
 
 ## 🌐 Let's Connect!  
-- 🔗 YouTube: Ajaya STEM Academy (https://www.youtube.com/@AjayaSTEMAcademy)
+- 🔗 YouTube: Ajaya STEM Academy (https://www.youtube.com/@AjayaPhysics)
 - Facebook: https://www.facebook.com/AjayaPhysics
 - Instagram: https://www.instagram.com/ajayaphysics/
 - 💼 LinkedIn : https://www.linkedin.com/in/ajayaphysics/ 
