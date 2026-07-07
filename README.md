@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ajaya Kumar Behera
 
-## International Educator | Physics, Mathematics & Computer Science Specialist | AI Engineer | Python Developer | STEM Innovation Leader
+## International Educator | Physics, Mathematics & Computer Science Specialist | AI Engineer | Python Developer | STEM / MINT Innovation Leader
 
 Welcome to my GitHub!
 
-I am an internationally experienced educator, AI engineer, Python developer and STEM innovation leader with over **17 years of professional experience** in Physics, Mathematics, Computer Science and educational leadership.
+I am an internationally experienced educator, AI engineer, Python developer and STEM(MINT) innovation leader with over **17 years of professional experience** in Physics, Mathematics, Computer Science and educational leadership.
 
 Throughout my career, I have taught and mentored students from diverse cultural and educational backgrounds representing Asia, Europe, North America, South America, Africa, the Middle East and Oceania. My passion is to inspire curiosity, critical thinking and innovation by integrating science, technology and modern Artificial Intelligence into education.
 
@@ -20,7 +20,7 @@ I believe that education, science and artificial intelligence together have the 
 - 🎓 Master's Degrees in Physics, Mathematics and Education
 - 💻 Computer Science Specialist
 - 🤖 AI Engineer & Python Developer
-- 📚 Specialist in Physics, Mathematics, Computer Science and STEM Education
+- 📚 Specialist in Physics, Mathematics, Computer Science and STEM / MINT Education
 - 🌏 Experienced in multicultural international learning environments with students from across the globe
 - 🚀 Passionate about Artificial Intelligence, Robotics, Scientific Computing and Educational Innovation
 - 📖 Lifelong learner committed to continuous professional growth, research and innovation
@@ -36,12 +36,12 @@ I believe that education, science and artificial intelligence together have the 
 - ✅ Head of Science
 - ✅ Cambridge International Educator
 - ✅ International Baccalaureate (IBDP) Educator
-- ✅ STEM Curriculum Designer
+- ✅ STEM/MINT Curriculum Designer
 - ✅ AI & Robotics Integration Specialist
 - ✅ Python Developer
 - ✅ Educational Technology Innovator
 - ✅ International STEM Fair Judge
-- ✅ YouTube STEM Content Creator
+- ✅ YouTube STEM/MINT Content Creator
 - ✅ Open Source Enthusiast
 
 ---
@@ -112,7 +112,7 @@ I believe that education, science and artificial intelligence together have the 
 - Artificial Intelligence
 - Python Programming
 - Robotics
-- STEM Education
+- STEM/MINT Education
 - Engineering Design
 - Computational Thinking
 - Cambridge Primary
@@ -190,12 +190,12 @@ I am currently developing projects in:
 - VEX IQ Robotics
 - IoT Solutions
 
-## STEM Education
+## STEM/MINT Education
 
 - Physics Simulations
 - Mathematics Visualisations
 - Computer Science Projects
-- Interactive STEM Activities
+- Interactive STEM/MINT Activities
 - AI-powered Learning Tools
 
 ---
@@ -211,7 +211,7 @@ I am committed to advancing the fields of:
 - Scientific Research
 - Open Source Development
 - International Education
-- STEM Innovation
+- STEM/MINT Innovation
 
 My mission is to bridge the gap between education and emerging technologies by developing innovative solutions that empower learners, educators and organisations worldwide.
 
@@ -229,7 +229,7 @@ I welcome opportunities to collaborate in:
 - Data Science
 - Scientific Computing
 - Educational Technology
-- STEM Education
+- STEM/MINT Education
 - Open Source Software
 
 ---
